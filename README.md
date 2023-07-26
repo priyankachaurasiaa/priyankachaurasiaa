@@ -1,7 +1,7 @@
-![logo](https://github.com/priyankachaurasiaa/priyankachaurasiaa/blob/main/GitHub_Banner.jpeg)
 
-<h1 align="center">Hi 👋, I'm Priyanka kumari Chaurasia</h1>
-<h3 align="center">A passionate Data Analyst and Data Scientist from India</h3>
+
+<h1 align="center">Hi 👋, I'm Priyanka Kumari Chaurasia</h1>
+<h3 align="center">An enthusiast and passionate Data Analyst and Scientist from India</h3>
 
 <h3 align="left">About Me:</h3>
 
@@ -15,7 +15,7 @@
 
 - 🌱 I’m currently learning **Advance SQL and ML**
 
-- 💬 Ask me about **Python, Advance SQL, MS Office, Power BI, Statistics, Machine Learning**
+- 💬 Ask me about **Python, Advance SQL, MS Office, Power BI, Statistics and Machine Learning**
 
 - 📫 How to reach me **priyankachaurasia7050@gmail.com**
 
