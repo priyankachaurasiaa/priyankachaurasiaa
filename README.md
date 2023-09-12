@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Priyanka Kumari Chaurasia</h1>
-<h3 align="center">An enthusiast and passionate Data Analyst and Scientist from India</h3>
+<h3 align="center">An enthusiast and passionate Data Analyst || Data Scientist || Data Engineer || Business Analyst from India</h3>
 
 <h3 align="left">About Me:</h3>
 
