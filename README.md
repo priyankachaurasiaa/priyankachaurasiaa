@@ -1,3 +1,4 @@
+![image](https://github.com/priyankachaurasiaa/priyankachaurasiaa/assets/134799886/26e90ad3-ff9b-4704-a747-3619bcccc81c)
 
 
 <h1 align="center">Hi 👋, I'm Priyanka Kumari Chaurasia</h1>
